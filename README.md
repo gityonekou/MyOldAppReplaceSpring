@@ -1,4 +1,4 @@
-# SpringSample
+# MyOldAppReplaceSpring
 過去作成したJavaのweb作品をSpringフレームワークで再構築した作品をここに公開します。<br>
 1.投資関連：ミラートレーダーのストラテジー成績データを元に最適なポートフォリオ作成のための分析をするwebアプリ<br>
 2.FX投資の成績分析用webアプリ<br>
